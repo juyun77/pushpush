@@ -1,0 +1,25 @@
+﻿  loading.cpp
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  map.cpp
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  skillmenu.cpp
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\skillmenu.cpp(14,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\skillmenu.cpp(27,6): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\skillmenu.cpp(143,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\skillmenu.cpp(193,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\skillmenu.cpp(192,7): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\skillmenu.cpp(215,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\skillmenu.cpp(223,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\skillmenu.cpp(227,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\skillmenu.cpp(228,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\skillmenu.cpp(229,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\skillmenu.cpp(230,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pushman.cpp
+  main.cpp
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\main.cpp(17,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\zz\main.cpp(18,37): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  score.cpp
+  코드를 생성하고 있습니다...
+  zz.vcxproj -> C:\Users\juyun\OneDrive\바탕 화면\2023_취업\서경대학교\끝\Debug\zz.exe
